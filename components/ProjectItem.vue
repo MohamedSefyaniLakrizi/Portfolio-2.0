@@ -6,8 +6,8 @@
       <div
         class="absolute rounded-b-xl bottom-0 bg-white bg-opacity-80 w-full h-[80px]">
         <div class="p-3 relative w-full">
-          <h5 class="text-lg font-semibold">{{ props.title }}</h5>
-          <p>{{ props.description }}</p>
+          <h5 class="md:text-lg font-semibold">{{ props.title }}</h5>
+          <p class="text-sm md:text-base">{{ props.description }}</p>
           <div
             class="absolute right-3 top-3 opacity-0 -translate-x-[20px] group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200 ease-in-out">
             <i class="pi pi-arrow-right" />

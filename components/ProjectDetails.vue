@@ -43,7 +43,9 @@
             :alt="props.alt_video"
             class="w-full object-cover rounded-lg border border-slate-400"
             autoplay
-            loop>
+            loop
+            muted
+            playsinline>
             <source :src="props.video" type="video/mp4" />
             Your browser does not support the video tag.
           </video>

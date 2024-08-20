@@ -7,17 +7,18 @@
     <template #item="slotProps">
       <div class="overflow-hidden">
         <div
-          class="flex w-[150px] p-2 hover:-translate-x-full transition-transform duration-300 ease-in-out">
-          <div class="flex items-center relative w-[150px]">
-            <div class="w-[150px] flex justify-center">
+          class="flex w-[75px] md:w-[150px] p-2 hover:-translate-x-full transition-transform duration-300 ease-in-out">
+          <div class="flex items-center relative w-[75px] md:w-[150px]">
+            <div class="w-[75px] md:w-[150px] flex justify-center">
               <img
                 :src="slotProps.data.image"
                 :alt="slotProps.data.name"
                 class="!w-10 !h-10 rounded" />
             </div>
           </div>
-          <div class="flex w-[150px] items-center justify-center">
-            <div class="font-medium w-[150px] select-none text-center">
+          <div class="flex w-[75px] md:w-[150px] items-center justify-center">
+            <div
+              class="font-medium w-[75px] md:w-[150px] select-none text-center">
               {{ slotProps.data.name }}
             </div>
           </div>

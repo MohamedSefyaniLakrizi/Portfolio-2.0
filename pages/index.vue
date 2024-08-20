@@ -58,23 +58,26 @@
           <div class="flex justify-center">
             <div class="mt-10 w-full">
               <ul>
-                <li class="text-xl flex items-end">
-                  <span class="w-[150px]">- Email:</span>
+                <li class="md:text-xl flex items-end">
+                  <span class="md:w-[150px]">- Email:</span>
                   <a
                     class="hover:underline"
                     href="mailto:mohamedsefyani@gmail.com">
-                    <p class="text-xl">MohamedSefyani@gmail.com</p>
+                    <p class="ml-5 md:ml-0 md:text-xl">
+                      MohamedSefyani@gmail.com
+                    </p>
                   </a>
                 </li>
-                <li class="text-xl flex items-end">
-                  <span class="w-[150px]"> - LinkedIn: </span>
+                <li class="md:text-xl flex items-end">
+                  <span class="md:w-[150px]"> - LinkedIn: </span>
                   <a
                     class="hover:underline"
                     href="https://www.linkedin.com/in/mohamed-sefyani-lakrizi/"
                     target="_blank">
-                    <p class="text-xl">
+                    <p class="hidden md:block ml-5 md:ml-0 text-xs md:text-xl">
                       https://www.linkedin.com/in/mohamed-sefyani-lakrizi/
                     </p>
+                    <p class="block md:hidden ml-5 md:ml-0">Link</p>
                   </a>
                 </li>
               </ul>
