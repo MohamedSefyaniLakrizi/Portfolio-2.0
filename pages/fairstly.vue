@@ -3,7 +3,7 @@
     title="Shopify Theme"
     involvement="Design, Development"
     technologies="Tailwind, JS, JQuery"
-    video="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/videos/2024-08-18%2020-52-16-wx52qLxjPbslvXr1WcwYW4TZFcVyoB.mp4"
+    video="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/videos/2024-08-18%2020-52-16-wx52qLxjPbslvXr1WcwYW4TZFcVyoB-I3XSDKtGJIKcwPFs8lCboTBCuoHCQd.mp4"
     alt_video="Home Page"
     image1="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/image1-fairstly-Am5JRza57WTofG6zq1eIkcAP0Gu6bk.png"
     alt_image1="Hero Section"
