@@ -20,12 +20,12 @@
           <div>
             <h1 class="text-2xl md:text-5xl font-bold">Mohamed Sefyani</h1>
             <h2 class="text-lg md:text-2xl">
-              Front End Developer / Master Student
+              Fullstack Developer / Master Student
             </h2>
           </div>
         </div>
         <div class="mt-5 md:mt-10 text-xl md:text-3xl font-light">
-          Hi there! My name is Mohamed and I'm a Frontend developer and Master
+          Hi there! My name is Mohamed and I'm a Fullstack developer and Master
           student located in London, UK.
         </div>
         <div class="mt-10">
@@ -33,8 +33,8 @@
           <p class="text-xl font-light mt-5">
             I have experience with multiple technologies and frameworks, such as
             React and Vue. I have also worked with backend technologies and ssr
-            extensively. My skillset is always expanding and I'm always looking
-            to learn new things.
+            extensively like Node.js. My skillset is always expanding and I'm
+            always looking to learn new things.
           </p>
           <p class="text-xl font-light mt-2">
             Here are some of the technologies I have worked with:
