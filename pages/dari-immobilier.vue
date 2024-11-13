@@ -22,7 +22,7 @@
     image_phone2="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/imagephone2_dari-7dSjUbxLgUemNXwBNqbB3dGlfkZjN0.png"
     alt_image_phone2="Responsive Search Page"
     description="I developed a real estate listings website using Nuxt, Tailwind, TypeScript, PrimeVue, Supabase, and Mapbox. The website features authentication, OTP verification, settings, upload property location and information, and search for listings. The website is fully responsive."
-    website="https://dariimmobilier-ma.onrender.com/"
+    website="https://nwi.ma"
     website_note="30s wait time to load"
     nogithub="The code is private and could only be shared to a technical interviewer" />
 </template>
