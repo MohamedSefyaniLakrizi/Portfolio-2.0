@@ -31,21 +31,6 @@
 <script setup lang="ts">
   const skills = [
     {
-      name: "HTML",
-      image:
-        "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
-    },
-    {
-      name: "CSS",
-      image:
-        "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
-    },
-    {
-      name: "JavaScript",
-      image:
-        "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
-    },
-    {
       name: "React",
       image:
         "https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png",
@@ -54,6 +39,16 @@
       name: "Next",
       image:
         "https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000",
+    },
+    {
+      name: "Python",
+      image:
+        "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+      name: ".NET",
+      image:
+        "https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000",
     },
     {
       name: "Vue",
@@ -69,16 +64,6 @@
       name: "Nuxt",
       image:
         "https://img.icons8.com/?size=100&id=nvrsJYs7j9Vb&format=png&color=000000",
-    },
-    {
-      name: "Python",
-      image:
-        "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
-    },
-    {
-      name: ".NET",
-      image:
-        "https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000",
     },
     {
       name: "Node.js",
