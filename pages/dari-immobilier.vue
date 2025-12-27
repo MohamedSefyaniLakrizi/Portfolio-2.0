@@ -3,7 +3,7 @@
     title="Real Estate Listings Website"
     involvement="Design, Development"
     technologies="Nuxt, Tailwind, TypeScript, PrimeVue, Supabase, Mapbox"
-    video="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/videos/2024-08-20%2014-25-17-AueaY1OvAzao3wVjvU7ylaol3psQSK.mp4"
+    video="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/videos/Recording%202025-12-27%20004553.mp4"
     alt_video="Home Page"
     image1="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/image1_dari-xbmiyRUXAjK2FK1nr2oEUUQmrpzIFW.png"
     alt_image1="Authentication Popup"
