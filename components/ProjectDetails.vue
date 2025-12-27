@@ -19,7 +19,7 @@
           <div>
             <h1 class="text-2xl md:text-5xl font-bold">Mohamed Sefyani</h1>
             <h2 class="text-lg md:text-2xl">
-              Front End Developer / Master Student
+              Software Engineer / MSc Computing and Technology
             </h2>
           </div>
         </div>
