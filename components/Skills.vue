@@ -45,11 +45,15 @@
       image:
         "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
     },
-
     {
       name: "React",
       image:
         "https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png",
+    },
+    {
+      name: "Next",
+      image:
+        "https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000",
     },
     {
       name: "Vue",
@@ -67,23 +71,34 @@
         "https://img.icons8.com/?size=100&id=nvrsJYs7j9Vb&format=png&color=000000",
     },
     {
+      name: "Python",
+      image:
+        "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+      name: ".NET",
+      image:
+        "https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000",
+    },
+    {
       name: "Node.js",
       image:
         "https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000",
     },
     {
       name: "React Native",
-      image: "https://cdn.worldvectorlogo.com/logos/react-native-1.svg",
+      image: 
+        "https://cdn.worldvectorlogo.com/logos/react-native-1.svg",
+    },
+    {
+      name: "AWS",
+      image: 
+        "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
     },
     {
       name: "PostgreSQL",
       image:
         "https://img.icons8.com/?size=100&id=38561&format=png&color=000000",
-    },
-    {
-      name: "Express js",
-      image:
-        "https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000",
     },
     {
       name: "Git",
