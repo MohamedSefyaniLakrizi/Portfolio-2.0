@@ -21,7 +21,7 @@
     alt_image_phone1="Responsive Design"
     image_phone2="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/nwi.ma/Mobile%202%20NWI.ma.png"
     alt_image_phone2="Responsive Listing Page"
-    description="I develop a feature rich property listing marketplace, that provide multiple ways to search for homes, either using a map, or using queries to search features in properties using embeddings"
+    description="I developed a feature rich property listing marketplace, that provide multiple ways to search for homes, either using a map, or using queries to search features in properties using embeddings"
     website="https://nwi.ma"
     nogithub="The code is private and could only be shared to a technical interviewer" />
 </template>
