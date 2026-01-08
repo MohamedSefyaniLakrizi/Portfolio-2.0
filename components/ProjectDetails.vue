@@ -98,14 +98,18 @@
               class="w-full object-cover rounded-lg border border-slate-400" />
             <span class="font-semibold">{{ props.alt_image6 }}</span>
           </div>
-          <div class="flex flex-col items-center justify-center gap-5">
+          <div 
+            v-if="props.image_phone1" 
+            class="flex flex-col items-center justify-center gap-5">
             <img
               :src="props.image_phone1"
               :alt="props.alt_image_phone1"
               class="h-[500px] object-cover rounded-lg border border-slate-400" />
             <span class="font-semibold">{{ props.alt_image_phone1 }}</span>
           </div>
-          <div class="flex flex-col items-center justify-center gap-5">
+          <div 
+            v-if="props.image_phone2" 
+            class="flex flex-col items-center justify-center gap-5">
             <img
               :src="props.image_phone2"
               :alt="props.alt_image_phone2"
