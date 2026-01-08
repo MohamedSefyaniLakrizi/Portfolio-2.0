@@ -7,6 +7,12 @@
       description="Nuxt, Tailwind, PostgreSQL"
       alt="nwi" />
     <ProjectItem
+      link="/axiom labs"
+      image="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/client%20management/Calendar.png"
+      title="Platform for Client Management"
+      description="Next, PostgreSQL"
+      alt="client management platform" />
+    <ProjectItem
       link="/airbnb-clone"
       image="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/airbnb-clone-d7iCLLgGPJY7DfANXrsKfld80IOzBj.png "
       title="Airbnb Clone"
