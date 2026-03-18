@@ -1,8 +1,8 @@
 <template>
   <ProjectDetails
-    title="Client Management SaaS"
+    title="Client Management Platform — Freelance"
     involvement="Design, Development"
-    technologies="Next, Tailwind, TypeScript, PostgreSQL"
+    technologies="Next.js · Node.js · PostgreSQL · Prisma ORM · Jitsi"
     video="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/videos/Recording%202026-01-08%20132447%20compressed.mp4"
     alt_video="Overview of the platform"
     image1="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/client%20management/dashboard.png"
@@ -17,7 +17,7 @@
     alt_image5="Invoice Page"
     image6="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/client%20management/Note%20Editor.png"
     alt_image6="Note Editor"
-    description="I developed a client management website designed for psychologist, the platform handles clients, appointments, notes, invoices, availability, and meetings. The website also has a client focused landing page with a form that has availability directly linked to the platform"
+    description="A full-featured platform built for a psychologist, with separate interfaces for clients and the admin. Includes a multi-view calendar with recurring appointment support, online video sessions via Jitsi, invoicing with payment tracking, and automated email reminders via cron jobs. Sole engineer from requirements gathering through to production deployment."
     website="https://dashboard-appointment-website.vercel.app/"
     nogithub="P.S: The website is accessible but authorization is restricted to clients" />
 </template>
