@@ -25,15 +25,15 @@
           </div>
         </div>
         <div class="mt-5 md:mt-10 text-xl md:text-3xl font-light">
-          Hi there! My name is Mohamed and I'm a Software Engineer located in London, UK.
+          Mohamed Sefyani Lakrizi Software Engineer — London, UK
         </div>
         <div class="mt-10">
-          <h1 class="text-4xl font-bold">My Skills</h1>
           <p class="text-xl font-light mt-5">
-            I have experience with multiple technologies and frameworks, such as
-            React and Vue. I have also worked with backend technologies
-            extensively like Node.js, Python and .NET. My skillset is always expanding and I'm
-            always looking to learn new things.
+            I build full-stack web platforms and iOS apps.
+            I hold an MSc in Computing with Distinction from Northumbria University and a BSc in Computer Science,
+            and I've shipped production systems across web and mobile
+            — from an AI-powered property search engine to a screen time management app built on Apple's restricted Family Controls API.
+            Currently open to graduate software engineering roles in London.
           </p>
           <p class="text-xl font-light mt-2">
             Here are some of the technologies I have worked with:
