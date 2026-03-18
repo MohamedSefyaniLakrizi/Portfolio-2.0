@@ -2,7 +2,7 @@
   <ProjectDetails
     title="Real Estate Listings Website"
     involvement="Design, Development"
-    technologies="Nuxt, Tailwind, TypeScript, PrimeVue, Supabase, Mapbox"
+    technologies="Nuxt.js · PostgreSQL · pgvector · PostGIS · AWS Bedrock · Mapbox · GitHub Actions"
     video="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/videos/Recording%202025-12-27%20004553.mp4"
     alt_video="Home Page"
     image1="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/nwi.ma/Buy%20NWI.ma.png"
@@ -21,7 +21,7 @@
     alt_image_phone1="Responsive Design"
     image_phone2="https://x0u1tagseemx97ht.public.blob.vercel-storage.com/images/nwi.ma/Mobile%202%20NWI.ma.png"
     alt_image_phone2="Responsive Listing Page"
-    description="I developed a feature rich property listing marketplace, that provide multiple ways to search for homes, either using a map, or using queries to search features in properties using embeddings"
+    description="A property listings platform with an AI search layer. Images uploaded to listings are automatically processed through AWS Bedrock to generate multimodal embeddings, stored in pgvector. Users can search using plain English and the platform returns visually and semantically relevant results via cosine similarity — without needing to set any filters manually. Geospatial filtering is handled by PostGIS, with both dimensions resolved in a single PostgreSQL query."
     website="https://nwi.ma"
     nogithub="The code is private and could only be shared to a technical interviewer" />
 </template>
